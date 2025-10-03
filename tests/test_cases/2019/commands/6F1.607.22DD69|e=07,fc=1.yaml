@@ -1,0 +1,7 @@
+command_id: 6F1.607.22DD69|e=07,fc=1
+test_cases:
+- expected_values:
+    I3_HVBAT_C: 0
+  response: |-
+    607F1100762DD690000
+    607F1210000FFFFFFFF
