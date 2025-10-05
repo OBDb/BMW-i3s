@@ -4,29 +4,8 @@ test_cases:
     I3_AAT: 17
   response: 660F10562D1127277
 - expected_values:
-    I3_AAT: 17
-  response: 660F10562D1127278
-- expected_values:
     I3_AAT: 18
   response: 660F10562D1127474
 - expected_values:
-    I3_AAT: 19.5
-  response: 660F10562D1127777
-- expected_values:
-    I3_AAT: 19.5
-  response: 660F10562D1127778
-- expected_values:
-    I3_AAT: 20
-  response: 660F10562D1127878
-- expected_values:
-    I3_AAT: 20
-  response: 660F10562D1127879
-- expected_values:
-    I3_AAT: 21
-  response: 660F10562D1127A7B
-- expected_values:
-    I3_AAT: 22
-  response: 660F10562D1127C7C
-- expected_values:
-    I3_AAT: 22
-  response: 660F10562D1127C7D
+    I3_AAT: 24.5
+  response: 660F10562D1128181
