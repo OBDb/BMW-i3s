@@ -21,3 +21,17 @@ test_cases:
   response: |-
     607F1100962DDBC021E
     607F121039A0069FFFF
+- expected_values:
+    I3_HVBAT_SOC: 75.4
+    I3_HVBAT_SOC_MAX: 92.5
+    I3_HVBAT_SOC_MIN: 10.5
+  response: |-
+    607F1100962DDBC02F2
+    607F121039D0069FFFF
+- expected_values:
+    I3_HVBAT_SOC: 88.3
+    I3_HVBAT_SOC_MAX: 92.5
+    I3_HVBAT_SOC_MIN: 10.5
+  response: |-
+    607F1100962DDBC0373
+    607F121039D0069FFFF
