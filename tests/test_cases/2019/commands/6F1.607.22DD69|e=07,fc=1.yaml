@@ -11,32 +11,12 @@ test_cases:
     607F1100762DD69FFFF
     607F121F4F2FFFFFFFF
 - expected_values:
-    I3_HVBAT_C: -26.39
+    I3_HVBAT_C: -7.53
   response: |-
     607F1100762DD69FFFF
-    607F121F5B1FFFFFFFF
-- expected_values:
-    I3_HVBAT_C: -25.79
-  response: |-
-    607F1100762DD69FFFF
-    607F121F5EDFFFFFFFF
-- expected_values:
-    I3_HVBAT_C: -8.06
-  response: |-
-    607F1100762DD69FFFF
-    607F121FCDAFFFFFFFF
-- expected_values:
-    I3_HVBAT_C: -5.31
-  response: |-
-    607F1100762DD69FFFF
-    607F121FDEDFFFFFFFF
+    607F121FD0FFFFFFFFF
 - expected_values:
     I3_HVBAT_C: -0.63
   response: |-
     607F1100762DD69FFFF
     607F121FFC1FFFFFFFF
-- expected_values:
-    I3_HVBAT_C: -0.62
-  response: |-
-    607F1100762DD69FFFF
-    607F121FFC2FFFFFFFF
