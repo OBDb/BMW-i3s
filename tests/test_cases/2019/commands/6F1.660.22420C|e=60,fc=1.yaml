@@ -22,13 +22,6 @@ test_cases:
     660F1100B62420C0075
     660F1210075006F007F
 - expected_values:
-    I3_RANGE: 141
-    I3_RANGE_COMF: 141
-    I3_RANGE_ECO: 141
-  response: |-
-    660F1100B62420C008D
-    660F121008D008D0099
-- expected_values:
     I3_RANGE: 224
     I3_RANGE_COMF: 226
     I3_RANGE_ECO: 243
@@ -49,3 +42,17 @@ test_cases:
   response: |-
     660F1100B62420C0108
     660F12100F600F60112
+- expected_values:
+    I3_RANGE: 303
+    I3_RANGE_COMF: 297
+    I3_RANGE_ECO: 309
+  response: |-
+    660F1100B62420C0135
+    660F1210129012F0140
+- expected_values:
+    I3_RANGE: 303
+    I3_RANGE_COMF: 302
+    I3_RANGE_ECO: 315
+  response: |-
+    660F1100B62420C013B
+    660F121012E012F0143
