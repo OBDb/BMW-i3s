@@ -7,6 +7,12 @@ test_cases:
     607F1100962DDC007D0
     607F121083407E9FFFF
 - expected_values:
+    I3_HVBAT_CT_MAX: 21.94
+    I3_HVBAT_CT_MIN: 20.04
+  response: |-
+    607F1100962DDC007D4
+    607F12108920821FFFF
+- expected_values:
     I3_HVBAT_CT_MAX: 22.99
     I3_HVBAT_CT_MIN: 21
   response: |-
