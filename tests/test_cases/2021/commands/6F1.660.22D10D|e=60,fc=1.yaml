@@ -36,3 +36,21 @@ test_cases:
   response: |-
     660F1100B62D10D0000
     660F121C03B0000C03B
+- expected_values:
+    I3_ODO1: 49262
+    I3_ODO2: 49262
+  response: |-
+    660F1100B62D10D0000
+    660F121C06E0000C06E
+- expected_values:
+    I3_ODO1: 49263
+    I3_ODO2: 49263
+  response: |-
+    660F1100B62D10D0000
+    660F121C06F0000C06F
+- expected_values:
+    I3_ODO1: 49264
+    I3_ODO2: 49264
+  response: |-
+    660F1100B62D10D0000
+    660F121C0700000C070
