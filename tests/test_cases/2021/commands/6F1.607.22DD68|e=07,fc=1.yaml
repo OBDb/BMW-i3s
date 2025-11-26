@@ -1,8 +1,8 @@
 command_id: 6F1.607.22DD68|e=07,fc=1
 test_cases:
 - expected_values:
-    I3_HVBAT_V: 347.98
-  response: 607F10562DD6887EE
+    I3_HVBAT_V: 344.92
+  response: 607F10562DD6886BC
 - expected_values:
     I3_HVBAT_V: 394.31
   response: 607F10562DD689A07

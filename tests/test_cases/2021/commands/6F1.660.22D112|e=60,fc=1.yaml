@@ -1,8 +1,8 @@
 command_id: 6F1.660.22D112|e=60,fc=1
 test_cases:
 - expected_values:
-    I3_AAT: 9
-  response: 660F10562D1126263
+    I3_AAT: 6.5
+  response: 660F10562D1125D5F
 - expected_values:
     I3_AAT: 18
   response: 660F10562D1127474
