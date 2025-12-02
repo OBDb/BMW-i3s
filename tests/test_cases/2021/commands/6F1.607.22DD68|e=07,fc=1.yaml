@@ -4,8 +4,8 @@ test_cases:
     I3_HVBAT_V: 344.92
   response: 607F10562DD6886BC
 - expected_values:
-    I3_HVBAT_V: 394.31
-  response: 607F10562DD689A07
+    I3_HVBAT_V: 384.04
+  response: 607F10562DD689604
 - expected_values:
     I3_HVBAT_V: 400.04
   response: 607F10562DD689C44
