@@ -16,6 +16,4 @@ supported_commands_by_ecu:
   - 6F1.660.22D10D|e=60,fc=1:I3_ODO1,I3_ODO2
   - 6F1.660.22D111|e=60,fc=1:I3_AUX_PWR,I3_RANGE_E_CUR,I3_RANGE_E_MAX,I3_RANGE_E_USE,I3_RANGE_F_CUR,I3_RANGE_F_MAX
   - 6F1.660.22D112|e=60,fc=1:I3_AAT
-unsupported_commands_by_ecu:
-  "6F1":
   - 6F1.663.22D031|e=63,fc=1:I3_GEAR
