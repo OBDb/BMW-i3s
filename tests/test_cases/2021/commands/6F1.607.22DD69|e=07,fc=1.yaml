@@ -1,6 +1,11 @@
 command_id: 6F1.607.22DD69|e=07,fc=1
 test_cases:
 - expected_values:
+    I3_HVBAT_C: 0
+  response: |-
+    607F1100762DD690000
+    607F1210000FFFFFFFF
+- expected_values:
     I3_HVBAT_C: 8.82
   response: |-
     607F1100762DD690000
@@ -10,11 +15,6 @@ test_cases:
   response: |-
     607F1100762DD69FFFF
     607F121E906FFFFFFFF
-- expected_values:
-    I3_HVBAT_C: -32.28
-  response: |-
-    607F1100762DD69FFFF
-    607F121F364FFFFFFFF
 - expected_values:
     I3_HVBAT_C: -10.7
   response: |-
