@@ -4,8 +4,8 @@ test_cases:
     I3_VSS: 0
   response: 660F10562D1070000
 - expected_values:
-    I3_VSS: 50.7
-  response: 660F10562D10701FB
+    I3_VSS: 102
+  response: 660F10562D10703FC
 - expected_values:
     I3_VSS: 155.3
   response: 660F10562D1070611
